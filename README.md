@@ -25,3 +25,8 @@ The code refers to the project I had to complete as a part of my Masters program
 - Future work would be involving the apartment sales which could provide a better understanding of the market.
 
 - Land Valuation Experts could try to adopt the updated methods, which could give a better value and accurate prices.
+
+### Inferences:
+
+- Small Data: - Although the data seemed to be small, ANNs worked for this project. But at the same time, neural networks sometimes showed erratic behavior and the results didn't make any sense.
+- The amount of data used is also an idea to understand, how small amount of data could influence to make analyses. 
