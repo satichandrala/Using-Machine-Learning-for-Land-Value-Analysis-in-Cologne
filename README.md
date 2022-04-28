@@ -13,4 +13,4 @@ The code refers to the project I had to complete as a part of my Masters program
 - A novel attempt of using neural networks, made it possible to achieve better accuracy (MAPE = 62.93%) when compared to a Multiple Linear Regression Analysis (MAPE= 47.69%).
 - There's still room for improvement and the locale, here Cologne, has it's individual characteristics of influence. We came to know it is the real estate sales transactions values.
 - Future work would be involving the apartment sales which could provide a better understanding of the market.
-Land Valuation Experts could try to adopt the updated methods, which could give a better value and accurate prices.
+- Land Valuation Experts could try to adopt the updated methods, which could give a better value and accurate prices.
